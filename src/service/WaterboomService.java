@@ -9,7 +9,7 @@ import util.KodeUnik;
 import java.io.*;
 
 // [NILAI #1: Class]
-public class WaterbomService {
+public class WaterboomService {
     // [NILAI #13: Array] (penyimpanan tiket)
     private Tiket[] daftar = new Tiket[200];
     private int jumlah = 0;
